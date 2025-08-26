@@ -33,7 +33,3 @@ I'm a first-generation Latina studying Computer Science at the University of Sou
 💻 Portfolio: github.com/adelitta  
 ✨ *Actively open to SWE, security, and AI internships!*
 
-📎 [LinkedIn](https://www.linkedin.com/in/adelitta)  
-📫 Email: yourname@email.com  
-💻 Portfolio: github.com/adelitta  
-✨ *Actively open to SWE, security, and AI internships!*
